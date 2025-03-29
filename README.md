@@ -1,2 +1,2 @@
-# Linux-Assistant-
+# Linux Assistant
 Linux Assistant / دستورات پایه لینوکس
