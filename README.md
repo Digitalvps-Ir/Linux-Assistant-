@@ -1,4 +1,4 @@
-Linux Assistant / دستورات پایه لینوکس
+( Linux Assistant / دستورات پایه لینوکس )
 
 Its Just Basic Commands Xd
 
