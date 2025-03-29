@@ -1,2 +1,1 @@
-# Linux Assistant
-Linux Assistant / دستورات پایه لینوکس
+Its Just Basic Commands (:
